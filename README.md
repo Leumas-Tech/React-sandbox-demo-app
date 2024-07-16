@@ -33,7 +33,7 @@ npm i react-ace react-icons react-color
 Include the Component
 
 Simply import and include the CssSandbox component in your application:
-
+```jsx
 import React from 'react';
 import CssSandbox from './Path/to/Your/CssSandbox'; // Adjust the path as necessary
 
@@ -46,6 +46,9 @@ const App = () => {
 };
 
 export default App;
+```
+
+
 ### Run Your Application
 
 Run your application to see the CSS Sandbox Tool in action:
